@@ -1,4 +1,5 @@
-def StartScherm():
+#ja dit is een opdracht
+ def StartScherm():
   pass
 def LevelOne():
   pass
